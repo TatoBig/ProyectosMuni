@@ -14,7 +14,7 @@ const PageHeader = ({
   title,
   actionButton,
   actionText,
-  permission = false
+  permission = true
 }: Props) => {
   return (
     <>
